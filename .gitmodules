@@ -1,0 +1,6 @@
+[submodule "rpi-server"]
+	path = rpi-server
+	url = https://github.com/Desertification/rpi-server.git
+[submodule "projectlab-2-mbed-player"]
+	path = projectlab-2-mbed-player
+	url = https://github.com/Desertification/projectlab-2-mbed-player.git
